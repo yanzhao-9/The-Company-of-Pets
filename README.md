@@ -73,7 +73,7 @@ Learning resources used during project development and reflection include:
 - OpenLab's [Processing cheat sheet](https://web.engr.oregonstate.edu/~mjb/cs419ab/Handouts/processing_cheat_sheet_english.pdf).
 - SparkFun Electronics' [Processing cheat sheet](https://cdn.sparkfun.com/assets/6/3/f/e/3/Processing_Cheatsheet_Update.pdf).
 - The module's [Processing cheat sheet on Google Docs](https://docs.google.com/document/d/1NS9DHGJaCRdLQyHtcfPrVqlPfCsy6VoL864FPOBCbDs/edit).
-- Reas and Fry's *Getting started with Processing* (2015).
+- Fry and Reas's *Getting started with Processing* (2015).
 - Funk and Zhang's *Coding art* (2024).
 
 See the accompanying written reflection for the full reference list.
