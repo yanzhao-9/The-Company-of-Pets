@@ -21,7 +21,7 @@ The homecoming scene after the person and cat reach the sofa.
 
 ## Project Files
 
-- `The Company of Pets_project/sketch_final_work.pde`: contains the code for drawing, mouse interaction, character movement, sound and restarting the animation.
+- `The Company of Pets_project/final_work.pde`: contains the code for drawing, mouse interaction, character movement, sound and restarting the animation.
 - `The Company of Pets_project/data/`: inside the sketch folder | PNG backgrounds and character images, together with the WAV audio files required by the animation. |
 - `README.md`: provides the project overview and instructions for running and using the animation.
 
