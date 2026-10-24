@@ -34,11 +34,11 @@ The homecoming scene after the person and cat reach the sofa.
 
 3. On this repository's main page, click Code > Download ZIP.
 
-4. Extract the ZIP file and locate `sketch_final_work.pde` and its accompanying `data` folder.
+4. Extract the ZIP file `The-Company_of_Pets_main` and locate `The Company of Pets_project` folder.
 
-5. Make sure `sketch_final_work.pde` and the complete `data` folder are together inside a folder named `sketch_final_work`. If necessary, rename the downloaded project folder to match.
+5. Make sure `final_work.pde` and the complete `data` folder are together inside a folder named `The Company of Pets_project`. If necessary, rename the downloaded project folder to match.
 
-6. Open `sketch_final_work.pde` in Processing.
+6. Open `final_work.pde` in`The-Company_of_Pets_main` in Processing.
 
 7. Click Run to start the animation and turn on your computer's sound.
 
