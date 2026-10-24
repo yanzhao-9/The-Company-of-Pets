@@ -27,7 +27,7 @@ The homecoming scene after the person and cat reach the sofa.
 
 ## Setup and Run
 
-1. Download and install [Processing](https://processing.org/download), then select Java mode.
+1. Download and install [Processing](https://processing.org/download), launch Processing and select Java mode. If no sketch editor is open, choose File > New to open a blank sketch. Click the sketch window on the top-left corner to make it active.
 
 2. In Processing, go to Sketch > Import Library > Manage Libraries...
    Search for "Sound" by "The Processing Foundation" and install it.
