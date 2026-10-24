@@ -17,7 +17,7 @@ The homecoming scene after the person and cat reach the sofa.
 
 - https://processing.org/download, (version 4.5.7), using Java mode.
 - https://processing.org/reference/libraries/sound/index.html, (version 2.4.0) by The Processing Foundation, used for audio playback.
-<img width="1440" height="658" alt="截屏2026-10-24 09 45 46" src="https://github.com/user-attachments/assets/46544561-b405-4f73-99d5-f5f55f3018f2" />
+<img width="2846" height="1384" alt="Sound library screenshot" src="https://github.com/user-attachments/assets/8e2e2597-a0aa-4b0e-ac4e-bed86293bdfa" />
 
 ## Project Files
 
